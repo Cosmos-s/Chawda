@@ -12,6 +12,7 @@ img {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: bold;
   text-decoration: none;
+  line-height: 30px;
 }
 .intro {
   /* font-size: larger; */
