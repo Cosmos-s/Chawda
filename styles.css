@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Gujarati:wght@500&family=Rancho&display=swap');
+
+@media (min-width: 300px) {
+  img {
+  }
+}
+
+img {
+}
+.copyright {
+  color: gray;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+.intro {
+  /* font-size: larger; */
+  font-family: 'Noto Serif Gujarati', serif;
+  font-weight: bolder;
+  font-size: 25px;
+  line-height: 30px;
+}
+.social {
+  line-height: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  font-size: large;
+  color: darkgrey;
+  
+}
+.insta {
+  text-decoration: none;
+  color: goldenrod;
+}
+.whatsapp {
+  text-decoration: none;
+  color: goldenrod;
+}
+.web {
+  text-decoration: none;
+  color: goldenrod;
+}
+..insta:hover {
+  color: darkgrey;
+}
